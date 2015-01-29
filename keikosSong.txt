@@ -6,3 +6,6 @@ Lines 3
 Lines 4 and more
 Now adding lines 5
 and line 6 of this file.
+
+Now I'm adding lines 7
+But don't forget line 8
